@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pandas
+matplotlib
+scikit-learn
+tensorflow
+torch
+gdown
+openpyxl
